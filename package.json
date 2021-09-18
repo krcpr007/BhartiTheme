@@ -4,6 +4,12 @@
     "description": "A dark theme for coders on vs code made by a indian boy who study in NIT Patna",
     "version": "0.0.1",
     "publisher": "Rajankumar",
+    "icon": "image/Bharti-removebg-preview.png",
+    "author": {
+        "name": "Rajan Kumar",
+        "email": "rajankk.ug20.cse@nitp.ac.in",
+        "url": "https://www.linkedin.com/in/krcpr007/"
+    },
     "repository": {
         "type": "git", 
         "url": "https://github.com/krcpr007/BhartiTheme"
