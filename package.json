@@ -2,7 +2,7 @@
     "name": "bharti-theme",
     "displayName": "Bharti Theme",
     "description": "A dark theme for coders on vs code made by a indian boy who study in NIT Patna",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "Rajankumar",
     "icon": "image/Bharti-removebg-preview.png",
     "author": {
@@ -11,15 +11,15 @@
         "url": "https://www.linkedin.com/in/krcpr007/"
     },
     "repository": {
-        "type": "git", 
+        "type": "git",
         "url": "https://github.com/krcpr007/BhartiTheme"
     },
     "keywords": [
-        "theme", 
-        "dark theme", 
-        "bharti theme", 
-        "RajanKumar", 
-        "M bharti theme", 
+        "theme",
+        "dark theme",
+        "bharti theme",
+        "RajanKumar",
+        "M bharti theme",
         "dark bharti theme "
     ],
     "engines": {
