@@ -1,0 +1,25 @@
+{
+    "name": "bharti-theme",
+    "displayName": "Bharti Theme",
+    "description": "A dark theme for coders on vs code made by  a indian ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bharti Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bharti Theme-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "g": "^2.0.1",
+        "vsce": "^1.99.0"
+    }
+}
