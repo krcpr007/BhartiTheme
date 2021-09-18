@@ -3,6 +3,19 @@
     "displayName": "Bharti Theme",
     "description": "A dark theme for coders on vs code made by  a indian ",
     "version": "0.0.1",
+    "publisher": "Rajankumar",
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/krcpr007/BhartiTheme"
+    },
+    "keywords": [
+        "theme", 
+        "dark theme", 
+        "bharti theme", 
+        "RajanKumar", 
+        "M bharti theme", 
+        "dark bharti theme "
+    ],
     "engines": {
         "vscode": "^1.60.0"
     },
