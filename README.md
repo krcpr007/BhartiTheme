@@ -20,7 +20,7 @@
 3. Click on **Bharti Theme** 
 4. Click **Install** to install it
 5. Click **Reload** to reload the editor
-6. Code > Preferences > Color Theme > **Halcyon**
+6. Code > Preferences > Color Theme > **Bharti Theme**
 
 ## Facing Installation Problem 
 
