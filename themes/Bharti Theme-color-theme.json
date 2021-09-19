@@ -7,7 +7,7 @@
 		"panelTitle.inactiveForeground": "#f4acb7",
 		"panel.border": "#f4acb7",
 		"panel.background": "#15141d",
-		//pannel  
+		//status bar
 		"statusBar.background": "#000000",
 		"statusBar.foreground": "#00eeff",
 		"statusBar.border": "#00eeff",
@@ -70,7 +70,6 @@
 		"titleBar.activeBackground": "#000000",
 		"titleBar.border": "#00eeff",
 		"titleBar.activeForeground": "#00eeff",
-		// "list.activeSelectionBackground":"#ff0000",
 		///menubar goes here 
 		"menubar.selectionForeground": "#00eeff",
 		"menu.background": "#22223b",
