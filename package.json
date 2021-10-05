@@ -27,6 +27,7 @@
     },
     "categories": [
         "Themes"
+        
     ],
     "contributes": {
         "themes": [
