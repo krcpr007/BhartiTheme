@@ -2,7 +2,7 @@
     "name": "bharti-theme",
     "displayName": "Bharti Theme",
     "description": "A dark theme for coders on vs code made by a indian boy who study in NIT Patna",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "Rajankumar",
     "icon": "image/Bharti-removebg-preview.png",
     "author": {
@@ -27,7 +27,6 @@
     },
     "categories": [
         "Themes"
-        
     ],
     "contributes": {
         "themes": [
