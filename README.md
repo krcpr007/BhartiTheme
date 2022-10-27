@@ -5,7 +5,7 @@
 ## This is the Bharti theme made for your VS Code 
  >                            Rajan Kumar
  <p align="center">
-  <img alt="Halcyon Logo" src="image/Bharti-removebg-preview.png" width="250" />
+  <img alt="Halcyon Logo" src="image/Bharti-theme-bg.png" width="250" />
 </p>
 
 <p align="center">

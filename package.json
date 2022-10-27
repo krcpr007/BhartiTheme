@@ -1,10 +1,10 @@
 {
     "name": "bharti-theme",
     "displayName": "Bharti Theme",
-    "description": "A dark theme for coders on vs code made by a indian boy who study in NIT Patna",
+    "description": "A minimal dark theme for coders for vs code made with ❤️‍🔥 by @krcpr007",
     "version": "0.3.0",
     "publisher": "Rajankumar",
-    "icon": "image/Bharti-removebg-preview.png",
+    "icon": "image/Bharti-theme-bg.png",
     "author": {
         "name": "Rajan Kumar",
         "email": "rajankk.ug20.cse@nitp.ac.in",
