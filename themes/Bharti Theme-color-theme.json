@@ -2,13 +2,13 @@
 	"name": "Bharti Theme",
 	"type": "dark",
 	"colors": {
-		///panell 
+		// terminal panel 
 		"panelTitle.activeForeground": "#00eeff",
-		"panelTitle.inactiveForeground": "#f4acb7",
-		"panel.border": "#f4acb7",
+		"panelTitle.inactiveForeground": "#2a9d8f",
+		"panel.border": "#2a9d8f",
 		"panel.background": "#15141d",
 		//status bar
-		"statusBar.background": "#000000",
+		"statusBar.background": "#041C32",
 		"statusBar.foreground": "#00eeff",
 		"statusBar.border": "#00eeff",
 		///input goes here 
@@ -16,34 +16,34 @@
 		"input.background": "#050505",
 		"input.foreground": "#ffffff",
 		//side bar
-		"sideBar.border": "#f4acb7",
-		"sideBar.foreground": "#02b7ff",
-		"sideBar.background": "#000000",
-		"sideBarTitle.foreground": "#00eeff",
-		///activitybar 
+		"sideBar.border": "#2a9d8f",
+		"sideBar.foreground": "#2a9d8f",
+		"sideBar.background": "#041C32",
+		"sideBarTitle.foreground": "#2a9d8f",
+		//activitybar 
 		"activityBar.border": "#00eeff",
 		"activityBar.background": "#000000",
 		"activityBarBadge.foreground": "#1d2433",
 		"activityBarBadge.background": "#ffcc66",
 		"activityBar.foreground": "#00eeff",
-		///button goes here 
+		//button goes here 
 		"button.background": "#02b7ff",
 		"button.foreground": "#171c28",
 		"button.hoverBackground": "#fc7a01",
 		// whole window
 		"window.activeBorder": "#00eeff",
-		///badge
-		"badge.foreground": "#1d2433",
-		"badge.background": "#ffcc66",
-		////errors and warnigng
+		//badge
+		"badge.foreground": "#ff0101",
+		"badge.background": "#ECB365",
+		//errors and warning 
 		"editorError.foreground": "#ef6b73",
 		"editorWarning.foreground": "#ffd580",
 		"editorInfo.foreground": "#5ccfe6",
-		"editorHint.foreground": "#ffcc66",
-		///editor goes here 
+		"editorHint.foreground": "#f4a261",
+		//editor goes here 
 		"editor.background": "#0a192f",
 		"editor.foreground": "#64ff9f",
-		"editorLineNumber.foreground": "#00eeff",
+		"editorLineNumber.foreground": "#2a9d8f",
 		"editorCursor.foreground": "#00eeff",
 		"editor.findMatchHighlightBackground": "#5c0099",
 		"editorGroupHeader.tabsBackground": "#000000",
@@ -57,20 +57,21 @@
 		"tab.activeForeground": "#00eeff",
 		// "tab.border":"#00eeff",
 		"tab.hoverBackground": "#0000",
-		///terminal goes here 
-		"terminal.background": "#000000",
-		"terminal.foreground": "#00eeff",
+		//terminal goes here 
+		"terminal.background": "#0a192f",
+		"terminal.foreground": "#335c67",
 		"terminal.border": "#00eeff",
-		/// drop down goes here 
+		"terminalCursor.foreground":"#e0e1dd",
+		// drop down goes here 
 		"dropdown.background": "#000000",
 		"dropdown.foreground": "#00eeff",
 		"dropdown.border": "#00eeff",
 		"dropdown.listBackground": "#0d0727",
-		/// ttileBar 
-		"titleBar.activeBackground": "#000000",
+		// title-bar 
+		"titleBar.activeBackground": "#041C32",
 		"titleBar.border": "#00eeff",
-		"titleBar.activeForeground": "#00eeff",
-		///menubar goes here 
+		"titleBar.activeForeground": "#2a9d8f",
+		// menubar goes here 
 		"menubar.selectionForeground": "#00eeff",
 		"menu.background": "#22223b",
 		"menu.foreground": "#00eeff",
@@ -85,7 +86,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#00eeff"
+				"foreground": "#335c67"
 			}
 		},
 		{
@@ -195,7 +196,7 @@
 				"variable.other.object"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#b33f62"
 			}
 		},
 		{
