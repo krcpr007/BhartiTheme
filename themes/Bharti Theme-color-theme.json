@@ -8,25 +8,22 @@
 		"panel.border": "#2a9d8f",
 		"panel.background": "#15141d",
 		//status bar
-		"statusBar.background": "#041C32",
-		"statusBar.foreground": "#00eeff",
-		"statusBar.border": "#00eeff",
-		///input goes here 
+		"statusBar.background": "#000000",
+		"statusBar.foreground": "#2a9d8f",
+		//input goes here 
 		"input.border": "#02b7ff",
 		"input.background": "#050505",
 		"input.foreground": "#ffffff",
 		//side bar
-		"sideBar.border": "#2a9d8f",
 		"sideBar.foreground": "#2a9d8f",
-		"sideBar.background": "#041C32",
+		"sideBar.background": "#000000",
 		"sideBarTitle.foreground": "#2a9d8f",
 		//activitybar 
-		"activityBar.border": "#00eeff",
 		"activityBar.background": "#000000",
 		"activityBarBadge.foreground": "#1d2433",
 		"activityBarBadge.background": "#ffcc66",
-		"activityBar.foreground": "#00eeff",
-		//button goes here 
+		"activityBar.foreground": "#2a9d8f",
+		//button 
 		"button.background": "#02b7ff",
 		"button.foreground": "#171c28",
 		"button.hoverBackground": "#fc7a01",
@@ -48,28 +45,24 @@
 		"editor.findMatchHighlightBackground": "#5c0099",
 		"editorGroupHeader.tabsBackground": "#000000",
 		"editorGroup.border": "#f4acb7",
-		// "editorGroupHeader.tabsBorder":"#00eeff",
 		"editorGroup.dropBackground": "#0cb8e84d",
-		//tabs goes here
+		//tabs 
 		"tab.activeBackground": "#000000",
-		"tab.activeBorder": "#00eeff",
-		"tab.activeBorderTop": "#00eeff",
-		"tab.activeForeground": "#00eeff",
-		// "tab.border":"#00eeff",
+		"tab.activeBorderTop": "#2a9d8f",
+		"tab.inactiveBackground": "#000000",
+		"tab.activeForeground": "#2a9d8f",
 		"tab.hoverBackground": "#0000",
-		//terminal goes here 
+		//terminal  
 		"terminal.background": "#0a192f",
 		"terminal.foreground": "#335c67",
-		"terminal.border": "#00eeff",
-		"terminalCursor.foreground":"#e0e1dd",
-		// drop down goes here 
+		// dropdown
 		"dropdown.background": "#000000",
 		"dropdown.foreground": "#00eeff",
 		"dropdown.border": "#00eeff",
 		"dropdown.listBackground": "#0d0727",
 		// title-bar 
-		"titleBar.activeBackground": "#041C32",
-		"titleBar.border": "#00eeff",
+		"titleBar.activeBackground": "#000000",
+		// "titleBar.border": "#2a9d8f",
 		"titleBar.activeForeground": "#2a9d8f",
 		// menubar goes here 
 		"menubar.selectionForeground": "#00eeff",
