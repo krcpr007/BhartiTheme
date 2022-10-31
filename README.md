@@ -11,7 +11,7 @@
 <p align="center">
   A minimal, dark theme for <a href="https://marketplace.visualstudio.com/items?itemName=Rajankumar.bharti-theme">VS Code</a>.
 
-![demo](image/bharti_theme2.jpg)
+![demo](image/bharti_theme3.jpg)
 
 ## Installation via VS Code
 
